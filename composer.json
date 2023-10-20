@@ -1,6 +1,6 @@
 {
    "require": {
-    "pramodwerea/htmlToPdf-release-4.6-compatible-with-8": "main#43a76d83eaacf57e0d3e3684199c3f67322072cd"
+    "pramodwerea/htmlToPdf-release-4.6-compatible-with-8": "master"
   },
   "repositories": [
     {
