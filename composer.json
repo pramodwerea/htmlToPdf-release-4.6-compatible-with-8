@@ -1,4 +1,14 @@
 {
+   "name": "pramodrauniyar/htmltopdf-release-4.6-compatible-with-8",
+    "description": "This Code is taken from https://github.com/spipu/html2pdf/tree/dd88130923dbd833e07062405e461759530b5eb6 to fix releas$
+    "type": "composer-plugin",
+    "license": "Public",
+    "authors": [
+        {
+            "name": "Pramod Rauniyar",
+            "email": "pramod.rauniyar@gmail.com"
+        }
+    ],
    "require": {
     "pramodwerea/htmlToPdf-release-4.6-compatible-with-8": "master"
   },
