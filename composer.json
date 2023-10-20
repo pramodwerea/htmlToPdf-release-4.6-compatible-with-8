@@ -1,0 +1,21 @@
+{
+    "name": "pramodrauniyar/html-to-pdf-release-4.6-compatible-with-8",
+    "description": "This Code is taken from https://github.com/spipu/html2pdf/tree/dd88130923dbd833e07062405e461759530b5eb6 to fix release 4.6 compatible with PHP 8",
+    "type": "composer-plugin",
+    "license": "Public",
+    "authors": [
+        {
+            "name": "Pramod Rauniyar",
+            "email": "pramod.rauniyar@gmail.com"
+        }
+    ],
+  "require": {
+    "vendor/htmlToPdf-release-4.6-compatible-with-8": "main#43a76d83eaacf57e0d3e3684199c3f67322072cd"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/pramodwerea/htmlToPdf-release-4.6-compatible-with-8.git"
+    }
+  ]
+}
