@@ -10,7 +10,7 @@
         }
     ],
    "require": {
-    "pramodwerea/htmlToPdf-release-4.6-compatible-with-8": "master"
+    "pramodwerea/htmltopdf": "master"
   },
   "repositories": [
     {
