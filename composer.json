@@ -1,7 +1,6 @@
 {
    "name": "pramodwerea/htmltopdf",
     "description": "This Code is taken from spipu/html2pdf ",
-    "type": "composer-plugin",
     "license": "Public",
     "authors": [
         {
